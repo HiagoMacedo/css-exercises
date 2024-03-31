@@ -25,18 +25,20 @@ img {
   background: #eee;
 }
 
-.images {
-  display: flex;
-  justify-content: center;
-  gap: 52px;
-}
-
-.text {
-  margin-bottom: 32px;
-}
+/* SOLUTION */
 
 body {
   text-align: center;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
 }
 
 .info {
